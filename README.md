@@ -9,7 +9,7 @@ Nosso projeto, "BookShelf+", realizamos uma réplica da interface do aplicativo 
 ## Demonstração
 https://github.com/user-attachments/assets/335d8e01-76ee-487a-be3f-ed1801ac45ce
 
-##Developers
+## Developers
 
 <b>Pedro:</b> <a href="https://github.com/Pepeu31"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <br>
