@@ -11,6 +11,9 @@ https://github.com/user-attachments/assets/335d8e01-76ee-487a-be3f-ed1801ac45ce
 
 ##Developers
 
+Pedro: <a href="https://github.com/Pepeu31"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+Anshu: <a href="https://github.com/Anshushu000"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 
 
