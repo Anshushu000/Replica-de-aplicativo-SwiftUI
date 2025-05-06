@@ -9,6 +9,8 @@ Nosso projeto, "BookShelf+", realizamos uma réplica da interface do aplicativo 
 ## Demonstração
 https://github.com/user-attachments/assets/335d8e01-76ee-487a-be3f-ed1801ac45ce
 
+##Developers
+
 
 
 
